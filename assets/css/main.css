@@ -1,0 +1,50 @@
+
+#padre{
+  background-color: #E74C3C;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  margin: 10px;
+}
+
+#hijo{
+  background-color: #884EA0;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 75px;
+  top: 75px;
+}
+
+#nieto{
+  background-color: #E1EF0A;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top:0;
+}
+
+#father{
+  background-color: #0A80EF;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  margin: 10px;
+}
+#child1{
+  background-color: #239B56;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 75px;
+  top: 75px;
+}
+
+#child2{
+  background-color: black;
+  width: 75px;
+  height: 75px;
+  left: 0;
+  top:0;
+}
